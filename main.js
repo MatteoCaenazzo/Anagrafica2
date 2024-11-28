@@ -1,6 +1,6 @@
 var contenitore = [];
 var cont = 0;
-var url = "file:///C:/Users/teoro/Desktop/24-25/tps/tabella/pagina2.html";
+var url = "https://matteocaenazzo.github.io/Anagrafica2/index.html";
 
 function carica(){
     var tabella = document.getElementById("tabella");
