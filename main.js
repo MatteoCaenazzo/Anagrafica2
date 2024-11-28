@@ -1,6 +1,6 @@
 var contenitore = [];
 var cont = 0;
-var url = "./pagina2.html";
+var url = "./pagina2";
 
 function carica(){
     var tabella = document.getElementById("tabella");
